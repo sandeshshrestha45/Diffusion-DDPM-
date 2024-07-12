@@ -14,11 +14,13 @@ torch == 2.3.1+cu118 <br>
 torchvision ==  0.18.1+cu118
 
 
-![Ep0] ep0.png)
+Ep0:
+![ep0](https://github.com/user-attachments/assets/ecfd9dcc-db1b-4b72-890c-f8110603e65a)
 
+Ep100:
+![ep400](https://github.com/user-attachments/assets/02c77464-702b-49c0-bc8d-098cf1b09737)
 
-![Ep100] (ep100.png)
+Ep800:
+![ep800](https://github.com/user-attachments/assets/ea487dad-9b13-4745-aa66-25314971e324)
 
-
-![Ep800] (ep800.png)
 
